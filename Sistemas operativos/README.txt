@@ -1,1 +1,0 @@
-El directorio se llama Utu ya que cuando empeze a programarlo cree ese directorio ypara cambiarlo tengo que modificar todo 
