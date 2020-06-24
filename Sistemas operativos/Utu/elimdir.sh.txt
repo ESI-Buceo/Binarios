@@ -1,0 +1,23 @@
+#!/bin/bash
+
+clear
+
+read -p "Ingrese la cantidad de directorios a eliminar: " veces
+
+cd Usuarios
+
+for (( c=0; c<$veces; c++ ))
+
+
+
+do
+
+        read -p "Ingrese el nombre del directorio a eliminar: " dir
+        rm -R -f $dir
+
+        echo "El directorio ah sido eliminado"
+
+        sleep 5;
+clear
+
+   done
