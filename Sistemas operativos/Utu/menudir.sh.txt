@@ -57,7 +57,3 @@ clear
                 done
 
 
-
-
-
-"menudir.sh" 127L, 735C
