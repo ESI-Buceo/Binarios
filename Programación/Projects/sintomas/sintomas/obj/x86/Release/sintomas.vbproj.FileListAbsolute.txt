@@ -1,0 +1,4 @@
+C:\Users\CyC\Documents\Visual Studio 2010\Projects\sintomas\sintomas\obj\x86\Release\sintomas.Form1.resources
+C:\Users\CyC\Documents\Visual Studio 2010\Projects\sintomas\sintomas\obj\x86\Release\sintomas.Form2.resources
+C:\Users\CyC\Documents\Visual Studio 2010\Projects\sintomas\sintomas\obj\x86\Release\sintomas.Resources.resources
+C:\Users\CyC\Documents\Visual Studio 2010\Projects\sintomas\sintomas\obj\x86\Release\sintomas.vbproj.GenerateResource.Cache

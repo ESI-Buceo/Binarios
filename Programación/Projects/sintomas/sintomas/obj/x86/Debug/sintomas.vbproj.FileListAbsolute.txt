@@ -1,0 +1,30 @@
+C:\Users\CyC\AppData\Local\Temporary Projects\sintomas\obj\x86\Debug\sintomas.Form1.resources
+C:\Users\CyC\AppData\Local\Temporary Projects\sintomas\obj\x86\Debug\sintomas.Resources.resources
+C:\Users\CyC\AppData\Local\Temporary Projects\sintomas\obj\x86\Debug\sintomas.vbproj.GenerateResource.Cache
+C:\Users\CyC\AppData\Local\Temporary Projects\sintomas\bin\Debug\sintomas.exe
+C:\Users\CyC\AppData\Local\Temporary Projects\sintomas\bin\Debug\sintomas.pdb
+C:\Users\CyC\AppData\Local\Temporary Projects\sintomas\bin\Debug\sintomas.xml
+C:\Users\CyC\AppData\Local\Temporary Projects\sintomas\obj\x86\Debug\sintomas.exe
+C:\Users\CyC\AppData\Local\Temporary Projects\sintomas\obj\x86\Debug\sintomas.xml
+C:\Users\CyC\AppData\Local\Temporary Projects\sintomas\obj\x86\Debug\sintomas.pdb
+C:\Users\CyC\AppData\Local\Temporary Projects\sintomas\obj\x86\Debug\sintomas.Form2.resources
+C:\Users\CyC\documents\visual studio 2010\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.exe
+C:\Users\CyC\documents\visual studio 2010\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.xml
+C:\Users\CyC\documents\visual studio 2010\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.pdb
+C:\Users\CyC\Documents\Visual Studio 2010\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.Form1.resources
+C:\Users\CyC\Documents\Visual Studio 2010\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.Form2.resources
+C:\Users\CyC\Documents\Visual Studio 2010\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.Resources.resources
+C:\Users\CyC\Documents\Visual Studio 2010\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.vbproj.GenerateResource.Cache
+C:\Users\CyC\Documents\Visual Studio 2010\Projects\sintomas\sintomas\bin\Debug\sintomas.exe
+C:\Users\CyC\Documents\Visual Studio 2010\Projects\sintomas\sintomas\bin\Debug\sintomas.pdb
+C:\Users\CyC\Documents\Visual Studio 2010\Projects\sintomas\sintomas\bin\Debug\sintomas.xml
+C:\Users\Gabriel\Downloads\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.exe
+C:\Users\Gabriel\Downloads\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.xml
+C:\Users\Gabriel\Downloads\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.pdb
+C:\Users\Gabriel\Downloads\Projects\sintomas\sintomas\bin\Debug\sintomas.exe
+C:\Users\Gabriel\Downloads\Projects\sintomas\sintomas\bin\Debug\sintomas.pdb
+C:\Users\Gabriel\Downloads\Projects\sintomas\sintomas\bin\Debug\sintomas.xml
+C:\Users\Gabriel\Downloads\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.Form1.resources
+C:\Users\Gabriel\Downloads\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.Form2.resources
+C:\Users\Gabriel\Downloads\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.Resources.resources
+C:\Users\Gabriel\Downloads\Projects\sintomas\sintomas\obj\x86\Debug\sintomas.vbproj.GenerateResource.Cache
