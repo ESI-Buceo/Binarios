@@ -1,0 +1,1 @@
+el archivo sintomas txt tiene que estar en c:

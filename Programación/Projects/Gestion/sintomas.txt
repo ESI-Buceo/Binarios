@@ -1,0 +1,8 @@
+Fiebre
+tos_humeda
+Dolor_garganta
+Goteo
+Dolores_musculares
+Dolores_cabeza
+fatiga
+Tos_seca
